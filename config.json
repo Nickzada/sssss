@@ -1,0 +1,8 @@
+{
+  "token": "Token da aplicação",
+  "clientId": "ID da aplicação",
+  "guildId": "ID do Servidor",
+  "canalid": "ID do Canal de Feedback",
+  "twitchUrl": "https://www.twitch.tv/discord"
+}
+
